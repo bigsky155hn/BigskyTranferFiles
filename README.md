@@ -8,9 +8,9 @@ This repository is intended as a **binary distribution repository**. It is desig
 
 If you are an end user, start here:
 
-- Latest release page: `https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest`
-- Latest installer: `https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest/download/BigskyTranferFiles-Setup-1.0.0.exe`
-- Latest update manifest: `https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest/download/BigskyTranferFiles.update.json`
+- [Latest release page](https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest)
+- [Latest installer](https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest/download/BigskyTranferFiles-Setup-1.0.0.exe)
+- [Latest update manifest](https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest/download/BigskyTranferFiles.update.json)
 
 If you are browsing the repository in GitHub:
 
