@@ -1,0 +1,13 @@
+*
+!.gitignore
+!README.md
+!run-app.cmd
+!docs/
+!docs/**
+!publish/
+!publish/BigskyTranferFiles/
+!publish/BigskyTranferFiles/**
+!publish/installer/
+!publish/installer/**
+
+publish/**/*.pdb
