@@ -9,7 +9,7 @@ This repository is intended as a **binary distribution repository**. It is desig
 If you are an end user, start here:
 
 - [Latest release page](https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest)
-- [Latest installer](https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest/download/BigskyTranferFiles-Setup-1.0.0.exe)
+- [Latest installer](https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest/download/BigskyTranferFiles-Setup-latest.exe)
 - [Latest update manifest](https://github.com/bigsky155hn/BigskyTranferFiles/releases/latest/download/BigskyTranferFiles.update.json)
 
 If you are browsing the repository in GitHub:
@@ -157,20 +157,14 @@ If you distribute a self-contained build instead, the extra runtime is not requi
 
 ## Software Update
 
-BigskyTranferFiles can check for updates from:
-
-- a local folder
-- a UNC or network share
-- a direct manifest URL
-- a GitHub repository URL
-- a GitHub Releases manifest URL
+BigskyTranferFiles checks for updates through GitHub Releases.
 
 ### GitHub examples
 
-Repository URL:
+Release page:
 
 ```text
-https://github.com/<owner>/<repo>
+https://github.com/<owner>/<repo>/releases/latest
 ```
 
 Manifest URL:
@@ -179,7 +173,13 @@ Manifest URL:
 https://github.com/<owner>/<repo>/releases/latest/download/BigskyTranferFiles.update.json
 ```
 
-The application can read the update manifest, detect a newer internal build, download the installer, and launch the update flow from the desktop app.
+Installer URL:
+
+```text
+https://github.com/<owner>/<repo>/releases/latest/download/BigskyTranferFiles-Setup-latest.exe
+```
+
+The application reads the manifest, detects a newer release, downloads the installer, and launches the update flow from the desktop app.
 
 ## Package Notes
 
