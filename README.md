@@ -3,6 +3,10 @@
 BigskyTranferFiles is a Windows desktop application for high-speed file sharing and transfer. It combines a **Server Screen** and a **Client Screen** in one application so operators can publish shared content, connect to remote shares, download, upload, resume interrupted transfers, and manage internal file exchange from a single tool.
 
 This repository is intended as a **binary distribution repository**. It is designed for end users and internal operators who need the executable package, installer, and update artifacts. It does **not** need to expose the full source tree in order to be useful for deployment.
+<img width="3838" height="1939" alt="image" src="https://github.com/user-attachments/assets/fcf6586f-4f4f-479a-b6e4-ba0368963f33" />
+<img width="3825" height="1908" alt="image" src="https://github.com/user-attachments/assets/9cd88712-48f1-4883-8486-78688d4e88cc" />
+
+
 
 ## Download
 
